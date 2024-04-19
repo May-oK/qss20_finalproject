@@ -19,7 +19,7 @@ For our project, we performed a text analysis to uncover demographic differences
 
 2. Dartmouth Dataset - contains all START services that occurred during the relevant time period.
 
-Data files linked [here](data/).
+Data files protected. 
 
 ### Code
 1. `01_topic_modeling.ipynb`
@@ -33,7 +33,6 @@ Data files linked [here](data/).
    * Output: A series of pyLDAvis plots and .csv files for each category.
 
 Code samples linked [here](code/).
-
 
 
 
